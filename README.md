@@ -1,4 +1,3 @@
-  ![Status](./repos/profile-night-rainbow.svg)
 
 | [![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guilhermestrata&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermestrata&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
